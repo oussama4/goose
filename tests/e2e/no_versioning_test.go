@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/matryer/is"
-	"github.com/pressly/goose/v3"
+	"github.com/oussama4/goose/v3"
 )
 
 func TestNoVersioning(t *testing.T) {
